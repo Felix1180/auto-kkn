@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import requests
 import os
-from datetime import datetime
 from joblib import load
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
