@@ -1,0 +1,7 @@
+pandas
+numpy
+requests
+joblib
+gspread
+oauth2client
+python-dotenv

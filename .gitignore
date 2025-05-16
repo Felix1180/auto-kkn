@@ -1,0 +1,5 @@
+# Jangan upload file credentials
+credentials.json
+*.pem
+*.key
+.env
